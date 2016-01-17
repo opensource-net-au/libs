@@ -15,7 +15,7 @@
  * the PHP License and are unable to obtain it through the web, please
  * send a note to license@php.net so we can mail you a copy immediately.
  *
- * @category   library
+ * @category   OpenSourceNetAu\library
  * @package    database
  * @version    SVN: $Id$
  * 
@@ -26,7 +26,7 @@
  * @link       https://github.com/opensource-net-au/libs/database
  */
 
-namespace library;
+namespace OpenSourceNetAu\library;
 
 class database
 {
